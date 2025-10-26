@@ -1,10 +1,5 @@
 <!-- Profil Hacker Matrix Theme -->
-
-<p align="center">
-  <img src="https://i.imgur.com/7Yz7h3P.gif" width="600px" alt="Matrix Rain"/>
-</p>
-
-<h1 align="center">💻 Eremes — Apprentice System Hacker 🐧</h1>
+<h1 align="center">💻 Eremes — Apprentit Développeur 🐧</h1>
 
 <p align="center">
   <i>“Talk is cheap. Show me the code.” – Linus Torvalds</i>
@@ -25,7 +20,7 @@
   <img src="https://img.shields.io/github/followers/eremes972?label=Follow%20me&style=social" alt="Followers" />
 </p>
 
----
+
 
 ### 🧪 Technologies Infiltrées
 
@@ -50,7 +45,7 @@
   </a>&nbsp;
 </p>
 
----
+
 
 ### 📈 Hacker Stats
 
@@ -59,7 +54,7 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eremes972&layout=compact&theme=merko&border_color=00ff00" alt="top-langs"/>
 </p>
 
----
+
 
 ### 🧩 Progression de l’Infiltration
 
@@ -70,7 +65,7 @@
 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% — **Réseau & Protocoles**  
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% — **Hacking Éthique & Cyber-Sécurité**
 
----
+
 
 ### 🚧 Projets sélectionnés
 
@@ -93,7 +88,7 @@
 
 </div>
 
----
+
 
 ### 🖥️ whoami
 
@@ -107,16 +102,7 @@ eremes@matrix:~$ echo $SHELL
 
 </div>
 
----
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <!-- if you use the GitHub Action below, this will always be up-to-date -->
-  <img src="snake.svg" alt="contribution-snake"/>
-</p>
-
----
 
 ### 🛰️ Mission en cours
 
@@ -125,7 +111,7 @@ eremes@matrix:~$ echo $SHELL
 - 🌐 Explorer les sockets et la communication réseau
 - 🛡️ Sécuriser les systèmes 👨‍💻
 
----
+
 
 ### 📫 Me contacter dans l’ombre
 
@@ -137,7 +123,7 @@ eremes@matrix:~$ echo $SHELL
   <a href="mailto:email@example.com"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/732/732200.png" alt="Email"/></a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://media.tenor.com/2fXbn6Xtt0YAAAAd/hacker-hack.gif" width="500px" alt="hacker-gif"/>
