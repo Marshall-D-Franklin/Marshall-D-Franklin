@@ -31,7 +31,7 @@
   </a>&nbsp;
 </p>
 
----
+
 
 ### 📈 Hacker Stats
 
@@ -40,7 +40,7 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-D-Franklin&layout=compact&theme=merko&border_color=00ff00"/>
 </p>
 
----
+
 
 ### 🧩 Progression de l’Infiltration
 
@@ -53,8 +53,6 @@
 
 
 
----
-
 ### 🛰️ Mission en cours
 
 - 🔍 Comprendre le langage C jusqu’au niveau mémoire
@@ -62,7 +60,7 @@
 - 🌐 Explorer les sockets et la communication réseau
 - 🛡️ Sécuriser les systèmes 👨‍💻
 
----
+
 
 ### 📫 Me contacter dans l’ombre
 
@@ -74,7 +72,7 @@
   <a href="mailto:email@example.com"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/732/732200.png"/></a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://media.tenor.com/2fXbn6Xtt0YAAAAd/hacker-hack.gif" width="500px"/>
