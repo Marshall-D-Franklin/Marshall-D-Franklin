@@ -1,16 +1,12 @@
 <!-- Profil Hacker Matrix Theme -->
 
-<p align="center">
-  <img src="https://i.imgur.com/7Yz7h3P.gif" width="600px" alt="Matrix Rain"/>
-</p>
-
-<h1 align="center">💻 Eremes — Apprentice System Hacker 🐧</h1>
+<h1 align="center">💻 Marshall-D-Franklin — Développeur 🐧</h1>
 
 <p align="center">
   <i>“Talk is cheap. Show me the code.” – Linus Torvalds</i>
 </p>
 
----
+
 
 ### 🧪 Technologies Infiltrées
 
