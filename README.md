@@ -93,14 +93,17 @@
 ### 🖥️ whoami
 
 <div align="center" style="background:#000; color:#00FF41; padding:16px; border-radius:6px;">
-eremes@matrix:~$ whoami
+<pre><code>eremes@matrix:~$ whoami
 eremes
 eremes@matrix:~$ uname -a
 Linux eremes-pc 5.x.x-xxx #1 SMP x86_64 GNU/Linux
 eremes@matrix:~$ echo $SHELL
-/bin/bash  
-
+/bin/bash
+</code></pre>
 </div>
+
+---
+
 
 
 
