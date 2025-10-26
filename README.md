@@ -1,46 +1,65 @@
 <!-- Profil Hacker Matrix Theme -->
 
-<h1 align="center">💻 Marshall-D-Franklin — Développeur 🐧</h1>
+<p align="center">
+  <img src="https://i.imgur.com/7Yz7h3P.gif" width="600px" alt="Matrix Rain"/>
+</p>
+
+<h1 align="center">💻 Eremes — Apprentice System Hacker 🐧</h1>
 
 <p align="center">
   <i>“Talk is cheap. Show me the code.” – Linus Torvalds</i>
 </p>
 
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Ubuntu-4E9A06?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skills-Linux-00FF41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Learning-yellow?style=for-the-badge&logo=read-the-docs" />
+</p>
 
+<!-- Followers -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/eremes972?label=Follow%20me&style=social" alt="Followers" />
+</p>
+
+---
 
 ### 🧪 Technologies Infiltrées
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
   </a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
   </a>&nbsp;
   <a href="https://www.kernel.org/">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
   </a>&nbsp;
   <a href="https://ubuntu.com/">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"/>
   </a>&nbsp;
   <a href="https://git-scm.com/">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
   </a>&nbsp;
   <a href="https://code.visualstudio.com/">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
   </a>&nbsp;
 </p>
 
-
+---
 
 ### 📈 Hacker Stats
 
-<p align="center" flex>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Marshall-D-Franklin&show_icons=true&theme=merko&count_private=true&border_color=00ff00"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-D-Franklin&layout=compact&theme=merko&border_color=00ff00"/>
+<p align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=eremes972&show_icons=true&theme=merko&count_private=true&border_color=00ff00" alt="stats"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eremes972&layout=compact&theme=merko&border_color=00ff00" alt="top-langs"/>
 </p>
 
-
+---
 
 ### 🧩 Progression de l’Infiltration
 
@@ -51,7 +70,53 @@
 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% — **Réseau & Protocoles**  
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% — **Hacking Éthique & Cyber-Sécurité**
 
+---
 
+### 🚧 Projets sélectionnés
+
+<div align="center">
+
+  <a href="https://github.com/eremes972/projet-c-exemple" style="text-decoration:none">
+    <img width="240" src="https://img.shields.io/badge/Projet-Calc_C-00ff00?style=for-the-badge" alt="calc-c"/><br>
+    <sub><b>Calculatrice C</b> — Variables, I/O, compilation, bases.</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/eremes972/projet-linux-script" style="text-decoration:none">
+    <img width="240" src="https://img.shields.io/badge/Projet-Scripts_Bash-00ff00?style=for-the-badge" alt="bash"/><br>
+    <sub><b>Scripts Linux</b> — Automatisation & gestion de fichiers.</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/eremes972/projet-network" style="text-decoration:none">
+    <img width="240" src="https://img.shields.io/badge/Projet-Socket_C-00ff00?style=for-the-badge" alt="socket"/><br>
+    <sub><b>Sockets</b> — Mini client/serveur en C.</sub>
+  </a>
+
+</div>
+
+---
+
+### 🖥️ whoami
+
+<div align="center" style="background:#000; color:#00FF41; padding:16px; border-radius:6px;">
+eremes@matrix:~$ whoami
+eremes
+eremes@matrix:~$ uname -a
+Linux eremes-pc 5.x.x-xxx #1 SMP x86_64 GNU/Linux
+eremes@matrix:~$ echo $SHELL
+/bin/bash  
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <!-- if you use the GitHub Action below, this will always be up-to-date -->
+  <img src="snake.svg" alt="contribution-snake"/>
+</p>
+
+---
 
 ### 🛰️ Mission en cours
 
@@ -60,22 +125,22 @@
 - 🌐 Explorer les sockets et la communication réseau
 - 🛡️ Sécuriser les systèmes 👨‍💻
 
-
+---
 
 ### 📫 Me contacter dans l’ombre
 
 <p align="center">
-  <a href="https://github.com/eremes972"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/25/25231.png"/></a>
+  <a href="https://github.com/eremes972"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="GitHub"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/145/145807.png"/></a>
+  <a href="https://www.linkedin.com/in/TON_PROFIL"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/145/145807.png" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:email@example.com"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/732/732200.png"/></a>
+  <a href="mailto:email@example.com"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/732/732200.png" alt="Email"/></a>
 </p>
 
-
+---
 
 <p align="center">
-  <img src="https://media.tenor.com/2fXbn6Xtt0YAAAAd/hacker-hack.gif" width="500px"/>
+  <img src="https://media.tenor.com/2fXbn6Xtt0YAAAAd/hacker-hack.gif" width="500px" alt="hacker-gif"/>
 </p>
 
 <p align="center">
