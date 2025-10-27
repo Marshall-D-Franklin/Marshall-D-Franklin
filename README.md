@@ -1,5 +1,5 @@
 <!-- Profil Hacker Matrix Theme -->
-<h1 align="center">💻 Eremes — Apprentit Développeur 🐧</h1>
+<h1 align="center">💻 Marshall-D-Franklin — Développeur 🐧</h1>
 
 <p align="center">
   <i>“Talk is cheap. Show me the code.” – Linus Torvalds</i>
@@ -17,7 +17,7 @@
 
 <!-- Followers -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/eremes972?label=Follow%20me&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Marshall-D-Franklin?label=Follow%20me&style=social" alt="Followers" />
 </p>
 
 
@@ -50,7 +50,7 @@
 ### 📈 Hacker Stats
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=eremes972&show_icons=true&theme=merko&count_private=true&border_color=4E9A06" alt="stats"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Marshall-D-Franklin&show_icons=true&theme=merko&count_private=true&border_color=4E9A06" alt="stats"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eremes972&layout=compact&theme=merko&border_color=4E9A06" alt="top-langs"/>
 </p>
 
@@ -72,21 +72,21 @@
 <table align="center">
   <tr>
     <td align="center" width="260px">
-      <a href="https://github.com/eremes972/projet-c-exemple">
+      <a href="https://github.com/Marshall-D-Franklin/projet-c-exemple">
         <img src="https://img.shields.io/badge/Projet-Calc_C-4E9A06?style=for-the-badge" alt="calc-c"/>
       </a>
       <br>
       <sub><b>Calculatrice C</b><br>Variables, lecture, compilation.</sub>
     </td>
     <td align="center" width="260px">
-      <a href="https://github.com/eremes972/projet-linux-script">
+      <a href="https://github.com/Marshall-D-Franklin/projet-linux-script">
         <img src="https://img.shields.io/badge/Projet-Scripts_Bash-4E9A06?style=for-the-badge" alt="bash"/>
       </a>
       <br>
       <sub><b>Scripts Linux</b><br>Permissions & automatisation.</sub>
     </td>
     <td align="center" width="260px">
-      <a href="https://github.com/eremes972/projet-network">
+      <a href="https://github.com/Marshall-D-Franklin/projet-network">
         <img src="https://img.shields.io/badge/Projet-Socket_C-4E9A06?style=for-the-badge" alt="socket"/>
       </a>
       <br>
@@ -100,12 +100,12 @@
 
 ### 🖥️ whoami
 
-<div align="center" style="background:#4E9A06; color:#4E9A06; padding:16px; border-radius:6px;">
-<pre><code>eremes@matrix:~$ whoami
-eremes
-eremes@matrix:~$ uname -a
-Linux eremes-pc 5.x.x-xxx #1 SMP x86_64 GNU/Linux
-eremes@matrix:~$ echo $SHELL
+<div align="center" style="background:#000; color:#4E9A06; padding:16px; border-radius:6px;">
+<pre><code>Marshall-D-Franklin@matrix:~$ whoami
+Marshall-D-Franklin
+Marshall-D-Franklin@matrix:~$ uname -a
+Linux Marshall-D-Franklin-pc 5.x.x-xxx #1 SMP x86_64 GNU/Linux
+Marshall-D-Franklin@matrix:~$ echo $SHELL
 /bin/bash
 </code></pre>
 </div>
@@ -127,7 +127,7 @@ eremes@matrix:~$ echo $SHELL
 ### 📫 Me contacter dans l’ombre
 
 <p align="center">
-  <a href="https://github.com/eremes972"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="GitHub"/></a>
+  <a href="https://github.com/Marshall-D-Franklin"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="GitHub"/></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/TON_PROFIL"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/145/145807.png" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
