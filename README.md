@@ -50,8 +50,8 @@
 ### 📈 Hacker Stats
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=eremes972&show_icons=true&theme=merko&count_private=true&border_color=00ff00" alt="stats"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eremes972&layout=compact&theme=merko&border_color=00ff00" alt="top-langs"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=eremes972&show_icons=true&theme=merko&count_private=true&border_color=4E9A06" alt="stats"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eremes972&layout=compact&theme=merko&border_color=4E9A06" alt="top-langs"/>
 </p>
 
 
@@ -69,30 +69,38 @@
 
 ### 🚧 Projets sélectionnés
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="260px">
+      <a href="https://github.com/eremes972/projet-c-exemple">
+        <img src="https://img.shields.io/badge/Projet-Calc_C-4E9A06?style=for-the-badge" alt="calc-c"/>
+      </a>
+      <br>
+      <sub><b>Calculatrice C</b><br>Variables, lecture, compilation.</sub>
+    </td>
+    <td align="center" width="260px">
+      <a href="https://github.com/eremes972/projet-linux-script">
+        <img src="https://img.shields.io/badge/Projet-Scripts_Bash-4E9A06?style=for-the-badge" alt="bash"/>
+      </a>
+      <br>
+      <sub><b>Scripts Linux</b><br>Permissions & automatisation.</sub>
+    </td>
+    <td align="center" width="260px">
+      <a href="https://github.com/eremes972/projet-network">
+        <img src="https://img.shields.io/badge/Projet-Socket_C-4E9A06?style=for-the-badge" alt="socket"/>
+      </a>
+      <br>
+      <sub><b>Sockets Réseau</b><br>Client/serveur en C.</sub>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/eremes972/projet-c-exemple" style="text-decoration:none">
-    <img width="240" src="https://img.shields.io/badge/Projet-Calc_C-00ff00?style=for-the-badge" alt="calc-c"/><br>
-    <sub><b>Calculatrice C</b> — Variables, I/O, compilation, bases.</sub>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/eremes972/projet-linux-script" style="text-decoration:none">
-    <img width="240" src="https://img.shields.io/badge/Projet-Scripts_Bash-00ff00?style=for-the-badge" alt="bash"/><br>
-    <sub><b>Scripts Linux</b> — Automatisation & gestion de fichiers.</sub>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/eremes972/projet-network" style="text-decoration:none">
-    <img width="240" src="https://img.shields.io/badge/Projet-Socket_C-00ff00?style=for-the-badge" alt="socket"/><br>
-    <sub><b>Sockets</b> — Mini client/serveur en C.</sub>
-  </a>
-
-</div>
 
 
 
 ### 🖥️ whoami
 
-<div align="center" style="background:#000; color:#00FF41; padding:16px; border-radius:6px;">
+<div align="center" style="background:#4E9A06; color:#4E9A06; padding:16px; border-radius:6px;">
 <pre><code>eremes@matrix:~$ whoami
 eremes
 eremes@matrix:~$ uname -a
