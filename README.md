@@ -54,10 +54,10 @@
 
 ### 🧩 Progression de l’Infiltration
 
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% — **Programmation en C**  
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% — **Linux & Administration système**  
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% — **Réseau & Protocoles**  
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 00% — **Hacking Éthique & Cyber-Sécurité**
+🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ 50% — **Programmation en C**  
+🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛ 30% — **Linux & Administration système**  
+🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ 10% — **Réseau & Protocoles**  
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ 00% — **Hacking Éthique & Cyber-Sécurité**
 
 <br>
 
