@@ -34,17 +34,16 @@
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="margin: 0 14px;" alt="Bash"/>
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="margin: 0 14px;" alt="Docker"/>
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin: 0 14px; filter: invert(100%);" alt="GitHub"/>
-  <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Debugging_icon.svg/2048px-Debugging_icon.svg.png" style="margin: 0 14px;" alt="GDB"/>
 </p>
 
 <p align="center" style="color:#00FF41;">
-  <em>Numérisation... Installation des outils... Accès accordé ✅</em>
+  <em>Numérisation... Allocation mémoire ✅ ... Accès accordé 😉 — safe from buffer overflows (almost).</em>
 </p>
 
 
 
 
-### 📈 Hacker Stats
+### 📈 Développement Stats
 
 <p align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Marshall-D-Franklin&show_icons=true&theme=merko&count_private=true&border_color=4E9A06" alt="stats"/>
