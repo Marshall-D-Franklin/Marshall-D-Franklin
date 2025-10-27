@@ -54,8 +54,6 @@
 
 ### 🧩 Progression de l’Infiltration
 
-**Progression**
-
 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% — **Programmation en C**  
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% — **Linux & Administration système**  
 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% — **Réseau & Protocoles**  
