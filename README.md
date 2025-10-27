@@ -1,11 +1,9 @@
-<!-- Profil Hacker Matrix Theme -->
 <h1 align="center">💻 Marshall-D-Franklin — Développeur 🐧</h1>
 
 <p align="center">
   <i>“Parler ne coûte rien. Montrez-moi le code.” – Linus Torvalds</i>
 </p>
 
-<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Ubuntu-4E9A06?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -15,7 +13,6 @@
   <img src="https://img.shields.io/badge/Status-Learning-yellow?style=for-the-badge&logo=read-the-docs" />
 </p>
 
-<!-- Followers -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/Marshall-D-Franklin?label=Follow%20me&style=social" alt="Followers" />
 </p>
