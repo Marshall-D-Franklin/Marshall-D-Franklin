@@ -21,7 +21,7 @@
 
 <br>
 
-### 🧪 Technologies Infiltrées
+### 🧪 Technologies utilisés
 
 <p align="center">
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="margin: 0 14px;" alt="C"/>
