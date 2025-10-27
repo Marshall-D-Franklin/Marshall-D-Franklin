@@ -2,7 +2,7 @@
 <h1 align="center">💻 Marshall-D-Franklin — Développeur 🐧</h1>
 
 <p align="center">
-  <i>“Talk is cheap. Show me the code.” – Linus Torvalds</i>
+  <i>“Parler ne coûte rien. Montrez-moi le code.” – Linus Torvalds</i>
 </p>
 
 <!-- Badges -->
