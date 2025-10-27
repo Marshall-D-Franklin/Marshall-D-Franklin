@@ -1,4 +1,4 @@
-<h1 align="center">💻 Marshall-D-Franklin — Développeur 🐧</h1>
+<h1 align="center">💻 Marshall D. Franklin — Développeur 🐧</h1>
 
 <br> 
 
@@ -114,7 +114,7 @@ Marshall-D-Franklin@matrix:~$ echo $SHELL
 
 <br>
 
-### 📫 Me contacter dans l’ombre
+### 📫 Me contacter
 
 <p align="center">
   <a href="https://github.com/Marshall-D-Franklin"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="GitHub"/></a>
@@ -124,12 +124,13 @@ Marshall-D-Franklin@matrix:~$ echo $SHELL
   <a href="mailto:email@example.com"><img width="40px" src="https://cdn-icons-png.flaticon.com/256/732/732200.png" alt="Email"/></a>
 </p>
 
+<br>
 
-
-<p align="center">
-  <img src="https://media.tenor.com/2fXbn6Xtt0YAAAAd/hacker-hack.gif" width="500px" alt="hacker-gif"/>
+<p align="center" style="background:#121416; border:1px solid #2a2e36; border-radius:8px; padding:8px; display:inline-block;">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=1700&pause=800&color=4E9A06&center=true&vCenter=true&width=360&height=32&background=00000000&lines=C%20%2F%20C%2B%2B+D%C3%A9veloppeur;Linux+%7C+CLion+%7C+Docker"
+    alt="C / C++ typing"
+  />
 </p>
 
-<p align="center">
-  🟢 Système en veille... En attente de la prochaine mission 🟢
-</p>
+
