@@ -25,24 +25,20 @@
 ### 🧪 Technologies Infiltrées
 
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
-  </a>&nbsp;
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
-  </a>&nbsp;
-  <a href="https://www.kernel.org/">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
-  </a>&nbsp;
-  <a href="https://ubuntu.com/">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"/>
-  </a>&nbsp;
-  <a href="https://git-scm.com/">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  </a>&nbsp;
-  <a href="https://code.visualstudio.com/">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
-  </a>&nbsp;
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="margin: 0 14px;" alt="C"/>
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="margin: 0 14px;" alt="C++"/>
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="margin: 0 14px;" alt="Linux"/>
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="margin: 0 14px;" alt="Ubuntu"/>
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" style="margin: 0 14px;" alt="CLion"/>
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin: 0 12px;" alt="VSCode"/>
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="margin: 0 14px;" alt="Bash"/>
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="margin: 0 14px;" alt="Docker"/>
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin: 0 14px; filter: invert(100%);" alt="GitHub"/>
+  <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Debugging_icon.svg/2048px-Debugging_icon.svg.png" style="margin: 0 14px;" alt="GDB"/>
+</p>
+
+<p align="center" style="color:#00FF41;">
+  <em>Numérisation... Installation des outils... Accès accordé ✅</em>
 </p>
 
 
@@ -97,7 +93,6 @@
 
 
 
-
 ### 🖥️ whoami
 
 <div align="center" style="background:#000; color:#4E9A06; padding:16px; border-radius:6px;">
@@ -109,7 +104,6 @@ Marshall-D-Franklin@matrix:~$ echo $SHELL
 /bin/bash
 </code></pre>
 </div>
-
 
 
 
