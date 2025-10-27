@@ -25,21 +25,23 @@
 ### 🧪 Technologies Infiltrées
 
 <p align="center">
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="margin: 0 14px;" alt="C"/>
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="margin: 0 14px;" alt="C++"/>
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="margin: 0 14px;" alt="Linux"/>
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="margin: 0 14px;" alt="Ubuntu"/>
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" style="margin: 0 14px;" alt="CLion"/>
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin: 0 12px;" alt="VSCode"/>
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="margin: 0 14px;" alt="Bash"/>
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="margin: 0 14px;" alt="Docker"/>
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin: 0 14px; filter: invert(100%);" alt="GitHub"/>
-  <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Debugging_icon.svg/2048px-Debugging_icon.svg.png" style="margin: 0 14px;" alt="GDB"/>
+  <img width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="margin: 0 14px; filter: invert(90%) sepia(90%) saturate(800%) hue-rotate(80deg);" alt="C"/>
+  <img width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="margin: 0 14px; filter: invert(90%) sepia(90%) saturate(800%) hue-rotate(80deg);" alt="C++"/>
+  <img width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="margin: 0 14px; filter: invert(90%) sepia(90%) saturate(800%) hue-rotate(80deg);" alt="Linux"/>
+  <img width="52" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_Ubuntu_cof-orange-hex.svg/512px-Logo_Ubuntu_cof-orange-hex.svg.png" style="margin: 0 14px;" alt="Ubuntu"/>
+  <img width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" style="margin: 0 14px; filter: invert(90%) sepia(90%) saturate(800%) hue-rotate(80deg);" alt="CLion"/>
+  <img width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin: 0 14px; filter: invert(90%) sepia(90%) saturate(800%) hue-rotate(80deg);" alt="VSCode"/>
+  <img width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="margin: 0 14px; filter: invert(90%) sepia(90%) saturate(800%) hue-rotate(80deg);" alt="Bash"/>
+  <img width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="margin: 0 14px; filter: invert(90%) sepia(90%) saturate(800%) hue-rotate(80deg);" alt="Docker"/>
+  <img width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" style="margin: 0 14px; filter: invert(100%);" alt="GitHub"/>
+  <!-- icône GDB : version SVG plus claire (on applique aussi un filtre pour le rendre vert) -->
+  <img width="52" src="https://raw.githubusercontent.com/elog/awesome-gdb/master/logo/gdb.svg" style="margin: 0 14px; filter: invert(90%) sepia(90%) saturate(800%) hue-rotate(80deg);" alt="GDB"/>
 </p>
 
 <p align="center" style="color:#00FF41;">
-  <em>Numérisation... Installation des outils... Accès accordé ✅</em>
+  <em>Scanning... Tools loaded successfully ✅</em>
 </p>
+
 
 
 
