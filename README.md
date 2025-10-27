@@ -1,5 +1,7 @@
 <h1 align="center">💻 Marshall-D-Franklin — Développeur 🐧</h1>
 
+<br> 
+
 <p align="center">
   <i>“Parler ne coûte rien. Montrez-moi le code.” – Linus Torvalds</i>
 </p>
@@ -17,7 +19,7 @@
   <img src="https://img.shields.io/github/followers/Marshall-D-Franklin?label=Follow%20me&style=social" alt="Followers" />
 </p>
 
-
+<br>
 
 ### 🧪 Technologies Infiltrées
 
@@ -37,8 +39,7 @@
   <em>Numérisation... Allocation mémoire ✅ ... Accès accordé 😉 — safe from buffer overflows (almost).</em>
 </p>
 
-
-
+<br>
 
 ### 📈 Développement Stats
 
@@ -47,7 +48,7 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eremes972&layout=compact&theme=merko&border_color=4E9A06" alt="top-langs"/>
 </p>
 
-
+<br>
 
 ### 🧩 Progression de l’Infiltration
 
@@ -56,7 +57,7 @@
 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% — **Réseau & Protocoles**  
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 00% — **Hacking Éthique & Cyber-Sécurité**
 
-
+<br>
 
 ### 🚧 Projets sélectionnés
 
@@ -86,7 +87,7 @@
   </tr>
 </table>
 
-
+<br>
 
 ### 🖥️ whoami
 
@@ -100,7 +101,7 @@ Marshall-D-Franklin@matrix:~$ echo $SHELL
 </code></pre>
 </div>
 
-
+<br>
 
 ### 🛰️ Mission en cours
 
@@ -109,7 +110,7 @@ Marshall-D-Franklin@matrix:~$ echo $SHELL
 - 🌐 Explorer les sockets et la communication réseau
 - 🛡️ Sécuriser les systèmes 👨‍💻
 
-
+<br>
 
 ### 📫 Me contacter dans l’ombre
 
