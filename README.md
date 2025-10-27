@@ -45,8 +45,10 @@
 
 <p align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Marshall-D-Franklin&show_icons=true&theme=merko&count_private=true&border_color=4E9A06" alt="stats"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eremes972&layout=compact&theme=merko&border_color=4E9A06" alt="top-langs"/>
 </p>
+
 
 <br>
 
