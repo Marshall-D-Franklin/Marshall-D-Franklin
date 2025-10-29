@@ -50,7 +50,7 @@
         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marshall-D-Franklin&show_icons=true&theme=highcontrast&count_private=true&border_color=4E9A06" />
       </td>
       <td align="center" width="50%">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-D-Franklin&layout=compact&theme=highcontrast&border_color=4E9A06" />
+        <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-D-Franklin&layout=compact&theme=highcontrast&border_color=4E9A06" />
       </td>
     </tr>
   </table>
