@@ -57,6 +57,7 @@
 
 
 
+
 <br>
 
 ### 🧩 Progression de l’Infiltration
@@ -70,7 +71,7 @@
 
 ### 🚧 Projets sélectionnés
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="260px">
       <a href="https://github.com/Marshall-D-Franklin/projet-c-exemple">
