@@ -42,17 +42,15 @@
 <br>
 
 ### 📈 Développement Stats
+<div align="center" style="width: 100%;">
+  <div style="display: inline-block;">
+    <img height="175em"
+      src="https://github-readme-stats.vercel.app/api?username=Marshall-D-Franklin&show_icons=true&theme=highcontrast&count_private=true&border_color=4E9A06"/>
+    <img height="175em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-D-Franklin&layout=compact&theme=highcontrast&border_color=4E9A06"/>
+  </div>
+</div>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Marshall-D-Franklin&show_icons=true&theme=highcontrast&count_private=true&border_color=4E9A06"/>
-    </td>
-    <td align="center">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-D-Franklin&layout=compact&theme=highcontrast&border_color=4E9A06"/>
-    </td>
-  </tr>
-</table>
 
 
 
@@ -73,21 +71,21 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="260px">
+    <td align="center" width="460px">
       <a href="https://github.com/Marshall-D-Franklin/projet-c-exemple">
         <img src="https://img.shields.io/badge/Projet-Calc_C-4E9A06?style=for-the-badge" alt="calc-c"/>
       </a>
       <br>
       <sub><b>Calculatrice C</b><br>Variables, lecture, compilation.</sub>
     </td>
-    <td align="center" width="260px">
+    <td align="center" width="460px">
       <a href="https://github.com/Marshall-D-Franklin/projet-linux-script">
         <img src="https://img.shields.io/badge/Projet-Scripts_Bash-4E9A06?style=for-the-badge" alt="bash"/>
       </a>
       <br>
       <sub><b>Scripts Linux</b><br>Permissions & automatisation.</sub>
     </td>
-    <td align="center" width="260px">
+    <td align="center" width="460px">
       <a href="https://github.com/Marshall-D-Franklin/projet-network">
         <img src="https://img.shields.io/badge/Projet-Socket_C-4E9A06?style=for-the-badge" alt="socket"/>
       </a>
