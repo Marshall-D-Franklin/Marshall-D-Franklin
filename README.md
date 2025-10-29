@@ -111,16 +111,19 @@
 
 ### 🖥️ whoami
 
-<div align="center" style="background:#000; color:#4E9A06; padding:16px; border-radius:8px; border:1px solid #4E9A06; display:inline-block; text-align:left;">
+<div align="center" style="background:#000; color:#4E9A06; padding:16px; border-radius:8px; border:2px solid #4E9A06; box-shadow:0 0 12px #4E9A06aa; display:inline-block; text-align:left;">
 <pre style="margin:0; font-family:monospace;">
 Marshall-D-Franklin@matrix:~$ whoami
 Marshall-D-Franklin
 Marshall-D-Franklin@matrix:~$ uname -a
 Linux Marshall-D-Franklin-pc 5.x.x-xxx #1 SMP x86_64 GNU/Linux
 Marshall-D-Franklin@matrix:~$ echo $SHELL
-/bin/bash
+/bin/bash <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=100&color=4E9A06&center=false&width=14&height=18&lines=%E2%96%88" alt="cursor" height="18" align="middle" />
+
+  
 </pre>
 </div>
+
 
 <br>
 
