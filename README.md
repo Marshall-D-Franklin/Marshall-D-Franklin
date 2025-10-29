@@ -43,11 +43,17 @@
 
 ### 📈 Développement Stats
 
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Marshall-D-Franklin&show_icons=true&theme=highcontrast&count_private=true&border_color=4E9A06" alt="stats"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-D-Franklin&layout=compact&theme=highcontrast&border_color=4E9A06" alt="top-langs"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Marshall-D-Franklin&show_icons=true&theme=highcontrast&count_private=true&border_color=4E9A06" alt="stats"/>
+    </td>
+    <td>
+      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-D-Franklin&layout=compact&theme=highcontrast&border_color=4E9A06" alt="top-langs"/>
+    </td>
+  </tr>
+</table>
+
 
 
 <br>
