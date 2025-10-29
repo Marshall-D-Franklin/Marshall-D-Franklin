@@ -56,12 +56,6 @@
   </table>
 </p>
 
-
-
-
-
-
-
 <br>
 
 ### 🧩 Progression de l’Infiltration
