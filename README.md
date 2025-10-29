@@ -111,15 +111,19 @@
 
 ### 🖥️ whoami
 
-<div align="center" style="background:#000; color:#4E9A06; padding:16px; border-radius:6px;">
-<pre><code>Marshall-D-Franklin@matrix:~$ whoami
+<div align="center" style="background:#000; color:#4E9A06; padding:16px; border-radius:8px; border:1px solid #4E9A06; display:inline-block; text-align:left;">
+<pre style="margin:0; font-family:monospace;">
+Marshall-D-Franklin@matrix:~$ whoami
 Marshall-D-Franklin
 Marshall-D-Franklin@matrix:~$ uname -a
 Linux Marshall-D-Franklin-pc 5.x.x-xxx #1 SMP x86_64 GNU/Linux
 Marshall-D-Franklin@matrix:~$ echo $SHELL
 /bin/bash
-</code></pre>
+</pre>
 </div>
+
+<br>
+
 
 <br>
 
